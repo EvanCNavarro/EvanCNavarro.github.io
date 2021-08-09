@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #27241D;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+#loading-bar {
+    width: 100%;
+    text-align: top;
+    height: 10px;
+    background:
+        linear-gradient(to right,
+            #404077,
+            #7f487f,
+            #d04c77,
+            #f27548,
+            #f2af13);
+}
+
+#name {
+    margin: 30px;
+    font-size: 30px;
+}
