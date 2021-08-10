@@ -23,3 +23,17 @@
     margin: 30px;
     font-size: 30px;
 }
+
+#blog {
+    text-align: center;
+    margin: 70px;
+    font-size: 50px;
+}
+
+#blog-link {
+    color: #7f487f;
+}
+
+#blog-link:hover {
+    color: #f2af13;
+}
