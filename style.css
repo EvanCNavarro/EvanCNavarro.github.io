@@ -21,7 +21,7 @@
 
 #name {
     margin: 30px;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 #blog {
@@ -36,4 +36,28 @@
 
 #blog-link:hover {
     color: #f2af13;
+}
+
+#resume-block {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #404077;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 20px;
+    float: right;
+}
+
+#resume-block:hover {
+    border: 1px solid #7f487f;
+    border-radius: 5px;
+}
+
+#resume-link * {
+    background-color: #36332a;
+}
+
+.resume {
+    text-align: center;
+    margin: 10px;
 }
